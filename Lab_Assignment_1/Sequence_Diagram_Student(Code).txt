@@ -1,0 +1,23 @@
+link for the diagram genrator:
+
+https://www.websequencediagrams.com/
+
+.......................................................
+
+CODE: Part 1
+
+.......................................................
+
+actor Student
+Student->Portal: Login
+Portal->Database Server: Login Credentials
+alt Access Granted
+    Database Server-->Portal: Authentication Successful
+else Login Redirect
+    Database Server-->Portal: Invalid Credentials
+end
+Database Server-->Portal:Questionnaire
+Student->Portal:Fill Questionnaire
+Portal->Database Server:Submit Questionnaire
+Portal-->Student:Logout
+
