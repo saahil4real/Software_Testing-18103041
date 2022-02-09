@@ -9,5 +9,7 @@ usecase diagram
 
 <img src="https://github.com/saahil4real/Software_Testing-18103041/blob/main/Lab_Assignment_1/Sequence_Diagram_student.png" alt="Girl in a jacket" width="400" height="500">
 
+#### Usecase Diagram
 
+<img src="https://github.com/saahil4real/Software_Testing-18103041/blob/main/Lab_Assignment_1/Sequence_Diagram_student.png" alt="Girl in a jacket" width="400" height="500">
 
