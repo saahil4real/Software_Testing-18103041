@@ -1,12 +1,13 @@
 # Software Testing
-<br>
-## Lab Assignment 1
-<br>
-### Sahil Kakkar (18103041)
-<br>
-//TODO
-Upload Screenshots
-<br>
-![Sequence Diagram](https://github.com/saahil4real/Software_Testing-18103041/blob/main/Lab_Assignment_1/Sequence_Diagram_student.png "Sequence Diagram")
+## Lab Assignment 1 
+## Sahil Kakkar (18103041) 
 
-<img src="https://github.com/saahil4real/Software_Testing-18103041/blob/main/Lab_Assignment_1/Sequence_Diagram_student.png" alt="Girl in a jacket" width="500" height="600">
+//TODO
+usecase diagram
+
+#### Sequence Diagram (Student)
+
+<img src="https://github.com/saahil4real/Software_Testing-18103041/blob/main/Lab_Assignment_1/Sequence_Diagram_student.png" alt="Girl in a jacket" width="400" height="500">
+
+
+
