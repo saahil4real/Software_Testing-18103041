@@ -1,8 +1,8 @@
-#Software Testing
+# Software Testing
 <br>
-##Lab Assignment 1
+## Lab Assignment 1
 <br>
-###Sahil Kakkar (18103041)
+### Sahil Kakkar (18103041)
 <br>
 //TODO
 Upload Screenshots
