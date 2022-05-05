@@ -34,5 +34,21 @@ rectangle Student_Wellness_Monitor {
 
 #### Usecase Diagram
 
+
+```
+actor Student
+Student->Portal: Login
+Portal->Database Server: Login Credentials
+alt Access Granted
+    Database Server-->Portal: Authentication Successful
+else Login Redirect
+    Database Server-->Portal: Invalid Credentials
+end
+Database Server-->Portal:Questionnaire
+Student->Portal:Fill Questionnaire
+Portal->Database Server:Submit Questionnaire
+Portal-->Student:Logout
+```
+
 <img src="https://github.com/saahil4real/Software_Testing-18103041/blob/main/Lab_Assignment_1/UseCase_Diagram.png" alt="UseCase_Diagram" width="400" height="500">
 
